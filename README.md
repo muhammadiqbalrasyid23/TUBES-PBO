@@ -1,11 +1,13 @@
-# TUBES-PBO
-Pengumpulan Tugas Besar PBO
+# TUBES-GUI
+Pengumpulan Tugas Besar GUI
 
 Pendahuluan
-Selamat datang di Program Pencatatan Pemberangkatan Bus. Kami adalah kelompok , yang beranggotakan:
+Selamat datang di Aplikasi KlinikUm. kelompok kami yang beranggotakan:
 •	Muhammad Iqbal Rasyid 	(19104041)
-•	Ananda Reza			(19104061)
-•	Muhammad Irsyad 		(19104077)
+•	Muhammad Fajar Ahadi			(19104007)
+•	Ahmad Muslih Syafi'i 		(19104034)
+•	Faiz Rizky Fahlevi 		  (19104047)
+
 Dalam Page ini adalah hasil dari diskusi Kami yang membuat sebuah program . Kami memutuskan untuk membuat sebuah program dengan nama Pencatatan Pemberangkatan Bus.  Program kitaini di tunjukkan untuk para pengusaha bus untukmencatat para penumpang yang akan menaiki Bus
 Class Diagram
  
