@@ -8,11 +8,12 @@ Selamat datang di Aplikasi KlinikUm. kelompok kami yang beranggotakan:
 3.	Ahmad Muslih Syafi'i 		(19104034)
 4.	Faiz Rizky Fahlevi 		  (19104047)
 
-Dalam Page ini adalah hasil dari diskusi Kami yang membuat sebuah program . Kami memutuskan untuk membuat sebuah program dengan nama Pencatatan Pemberangkatan Bus.  Program kitaini di tunjukkan untuk para pengusaha bus untukmencatat para penumpang yang akan menaiki Bus
-Class Diagram
+Dalam Page ini adalah hasil dari diskusi kami yang membuat sebuah aplikasi. Kami memutuskan untuk membuat sebuah Aplikasi yang bernama KlinikUm.  Program kita ini diperuntukan untuk para pasien dan Admin. Dengan adanya aplikasi ini para pasien dapat mendaftar secara online tanpa harus datang ketempat dan untuk admin pencatatan pemeriksaan tidak harus lagi menggunakan cara manual(menggunakan buku). 
+
+#UseCase
  
  
-Petunjuk Penggunaan Program
+#Petunjuk Penggunaan Aplikasi
 1.	Tampilan awal program terdapat  4 Menu Utama yang terdiri dari :Tambahkan Penumpang, Edit Penumpang, Tampilkan Penumpang dan Exit.
 2.	Untuk Pilihan (1.)para agen bias menambahkan data para penumpang yang akan berangkat.
 3.	Untuk pilihan (2.) digunakan untuk mengedit data para penumpang. Misalnya ketika para penumpang mengubah jam pemberangkatan.
