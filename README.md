@@ -3,10 +3,10 @@ Pengumpulan Tugas Besar GUI
 
 Pendahuluan
 Selamat datang di Aplikasi KlinikUm. kelompok kami yang beranggotakan:
-•	Muhammad Iqbal Rasyid 	(19104041)
-•	Muhammad Fajar Ahadi			(19104007)
-•	Ahmad Muslih Syafi'i 		(19104034)
-•	Faiz Rizky Fahlevi 		  (19104047)
+1. Muhammad Iqbal Rasyid 	(19104041)
+2.	Muhammad Fajar Ahadi			(19104007)
+3.	Ahmad Muslih Syafi'i 		(19104034)
+4.	Faiz Rizky Fahlevi 		  (19104047)
 
 Dalam Page ini adalah hasil dari diskusi Kami yang membuat sebuah program . Kami memutuskan untuk membuat sebuah program dengan nama Pencatatan Pemberangkatan Bus.  Program kitaini di tunjukkan untuk para pengusaha bus untukmencatat para penumpang yang akan menaiki Bus
 Class Diagram
